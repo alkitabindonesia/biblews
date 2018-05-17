@@ -1,0 +1,6 @@
+[16-Jan-2017 00:43:36 Asia/Jakarta] PHP Fatal error:  Access to undeclared static property: AlkitabController::$kamusKitab in /home/wibh8541/public_html/ws/app/Controller/AlkitabController.php on line 42
+[16-Jan-2017 00:43:43 Asia/Jakarta] PHP Fatal error:  Access to undeclared static property: AlkitabController::$kamusKitab in /home/wibh8541/public_html/ws/app/Controller/AlkitabController.php on line 42
+[16-Jan-2017 00:43:45 Asia/Jakarta] PHP Fatal error:  Access to undeclared static property: AlkitabController::$kamusKitab in /home/wibh8541/public_html/ws/app/Controller/AlkitabController.php on line 42
+[16-Jan-2017 00:44:00 Asia/Jakarta] PHP Fatal error:  Access to undeclared static property: AlkitabController::$kamusKitab in /home/wibh8541/public_html/ws/app/Controller/AlkitabController.php on line 42
+[16-Jan-2017 00:44:03 Asia/Jakarta] PHP Fatal error:  Access to undeclared static property: AlkitabController::$kamusKitab in /home/wibh8541/public_html/ws/app/Controller/AlkitabController.php on line 42
+[16-Jan-2017 01:01:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wibh8541/public_html/ws/app/Controller/AlkitabController.php on line 177
